@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on - Capstone Project<br>🤝 I’m looking for help with -  Power Bi<br>🌱 I’m currently learning - Tableau<br>💬 Ask me about - Data Analysis<br>⚡ Fun fact - Do you know that even you yourself <br>                         contribute to data's around this world on a daily basis
+🔭 I’m currently working on - Capstone Project<br>🤝 I’m looking for help with -  Power Bi<br>🌱 I’m currently learning - Tableau<br>💬 Ask me about - Data Analysis<br>⚡ Fun fact - Do you know that even you yourself contribute to data's around this world on a daily basis
 
 
 ## 🌐 Socials:
